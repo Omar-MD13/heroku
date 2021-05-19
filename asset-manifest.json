@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/heroku.github.io/static/css/main.84183321.chunk.css",
+    "main.js": "/heroku.github.io/static/js/main.9677b40d.chunk.js",
+    "main.js.map": "/heroku.github.io/static/js/main.9677b40d.chunk.js.map",
+    "runtime-main.js": "/heroku.github.io/static/js/runtime-main.4b814907.js",
+    "runtime-main.js.map": "/heroku.github.io/static/js/runtime-main.4b814907.js.map",
+    "static/css/2.150d169a.chunk.css": "/heroku.github.io/static/css/2.150d169a.chunk.css",
+    "static/js/2.ddade366.chunk.js": "/heroku.github.io/static/js/2.ddade366.chunk.js",
+    "static/js/2.ddade366.chunk.js.map": "/heroku.github.io/static/js/2.ddade366.chunk.js.map",
+    "static/js/3.0f3d1698.chunk.js": "/heroku.github.io/static/js/3.0f3d1698.chunk.js",
+    "static/js/3.0f3d1698.chunk.js.map": "/heroku.github.io/static/js/3.0f3d1698.chunk.js.map",
+    "index.html": "/heroku.github.io/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/heroku.github.io/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.84183321.chunk.css.map": "/heroku.github.io/static/css/main.84183321.chunk.css.map",
+    "static/js/2.ddade366.chunk.js.LICENSE.txt": "/heroku.github.io/static/js/2.ddade366.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b814907.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.ddade366.chunk.js",
+    "static/css/main.84183321.chunk.css",
+    "static/js/main.9677b40d.chunk.js"
+  ]
+}
